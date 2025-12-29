@@ -1,7 +1,7 @@
 # repo5
 program 5
 Hi
-Hello
+Thanu
 Welcome
 Lab
 Git
